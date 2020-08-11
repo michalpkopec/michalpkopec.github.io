@@ -6,34 +6,34 @@
     "email": "",
     "phone": "",
     "website": "",
-    "summary": "For over a decade I've been working as a full stack developer. I'm comfortable writing code in Python, JavaScirpt, Java and PHP.",
+    "summary": "For over a decade I've been working as a full stack developer. I'm comfortable writing code in Python, JavaScript, Java and PHP.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Warsaw",
+      "countryCode": "PL",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "michalpkopec",
+        "url": "http://github.com/michalpkopec"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "michalpkopec",
+        "url": "http://linkedin.com/in/michalpkopec"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "michalpkopec",
+        "url": "http://twitter.com/michalpkopec"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "michalpkopec",
+        "url": "http://instagram.com/michalpkopec"
       }
     ]
   },
