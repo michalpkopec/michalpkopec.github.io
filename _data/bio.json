@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Michał P. Kopeć",
+    "name": "Michal P. Kopec",
     "label": "Software development",
     "picture": "/images/portrait_600.png",
     "email": "",
@@ -39,19 +39,27 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "cybersecurity",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "product design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "motorsports",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "travel",
       "keywords": [
       ]
     }
@@ -61,23 +69,30 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
+        "JavaScript",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": [
+        "Polish (native)",
+        "English (fluent)",
+        "Spanish (fluent)",
+        "German (basic)"
       ]
     }
   ],
