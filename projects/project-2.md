@@ -113,7 +113,7 @@ The listed requirements are presented from end user point of view. All of the da
 - The ability to annex previously created medical history documents (without the ability to modify the original content)
 - The ability to download previously created medical history as an MS Word document.
 
-### Medical attendance - Attendance screen format - Consultation/Dentistry
+### Medical attendance - Consultation/Dentistry
 
 - The ability to view attended patient's information with their medical history
 - Standardization of fields according to the SOAP methodology
@@ -121,12 +121,12 @@ The listed requirements are presented from end user point of view. All of the da
 - The ability to add medications from a classified list of products sold in the clinic's pharmacy
 - The ability to create laboratory and imaging service requests from the list of services provided by the clinic (which are then listed in the cash register for an attended patient)
 
-### Medical attendance - Attendance screen format - Consultation
+### Medical attendance - Consultation
 
 - Separate input fields for patient vitals in the Observations and measurements part of the document
 - The ability to select classified diagnoses in the Diagnosis part of the document (based on the International Classification of Diseases (ICD))
 
-### Medical attendance - Attendance screen format - Dentistry 
+### Medical attendance - Dentistry 
 
 - Visual representation of permanent and deciduous teeth for Observations and Procedures
 
