@@ -36,7 +36,7 @@ Size: ~32,000 LOC
     <td>From idea to deployment, full stack</td>
   </tr>
   <tr>
-    <td>Schema: <td>
+    <td>Schema: </td>
     <td>83 Tables</td>
   </tr>
   <tr>
