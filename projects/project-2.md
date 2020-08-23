@@ -24,7 +24,7 @@ Size: ~32,000 LOC
 
 <table>
 <tr>
-<td>**Time**</td>
+<td style="font-weight:bold">Time</td>
 <td>24 months</td>
 </tr>
 <tr>
