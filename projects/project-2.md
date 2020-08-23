@@ -18,23 +18,23 @@ summary: The purpose of the project was to replace a 20 year old system written 
 
 <table>
   <tr>
-    <td>Time: </td>
+    <td>Time:&nbsp;</td>
     <td>24 months</td>
   </tr>
   <tr>
-    <td>Stack: </td>
+    <td>Stack:&nbsp;</td>
     <td>Java, Python, PHP, PostgreSQL</td>
   </tr>
   <tr>
-    <td>Scope: </td>
+    <td>Scope:&nbsp;</td>
     <td>From idea to deployment, full stack</td>
   </tr>
   <tr>
-    <td>Schema: </td>
+    <td>Schema:&nbsp;</td>
     <td>83 Tables</td>
   </tr>
   <tr>
-    <td>Size: </td>
+    <td>Size:&nbsp;</td>
     <td>~32,000 LOC</td>
   </tr>
 </table>
