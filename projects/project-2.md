@@ -14,7 +14,8 @@ labels:
 summary: The purpose of the project was to replace a 20 year old system written for MS DOS for the management of information within the company and its branches.
 ---
 
-Project overview:
+## Project overview
+
 Time of development: 24 months
 Stack: Java, Python, PHP, PostgreSQL
 Scope: From idea to deployment, full stack
