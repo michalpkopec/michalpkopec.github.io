@@ -44,7 +44,7 @@ summary: The purpose of the project was to replace a 20 year old system written 
 - Understanding technical specifications of the legacy system, its data structures and features
 - Improving on original processes and adding requested features on top of the old system
 - Adjusting the technology stack in order to be compatible with old client side hardware and operating systems
-- Delivery of the application to it's branches through a bandwidth limited VPN connection
+- Delivery of the application to its branches through a bandwidth limited VPN connection
 - Cleaning and conversion of partially corrupted data
 - Standardization and parametrization of plain text laboratory reports and creating print formats (conversion from continuous paper to US letter format)
 - Standardization of medical attendance and dentistry reporting
