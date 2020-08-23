@@ -82,10 +82,9 @@ The listed requirements are presented from end user point of view. All of the da
 - Automatically filtering the Service and Service group select boxes (for Laboratory, Imaging and Education)
 
 <div class="ui small rounded images">
-  <a href="../images/micromouse-robot.png" target="_blank"><img class="ui image" src="../images/micromouse-robot.png"></a>
-  <a href="../images/micromouse-robot-2.jpg" target="_blank"><img class="ui image" src="../images/micromouse-robot-2.jpg"></a>
-  <a href="../images/micromouse.jpg" target="_blank"><img class="ui image" src="../images/micromouse.jpg"></a>
-  <a href="../images/micromouse-circuit.png" target="_blank"><img class="ui image" src="../images/micromouse-circuit.png"></a>
+  <a href="../images/cms_cr_01a.png" target="_blank"><img class="ui image" src="../images/cms_cr_01a.png"></a>
+  <a href="../images/cms_cr_01b.jpg" target="_blank"><img class="ui image" src="../images/cms_cr_01b.jpg"></a>
+  <a href="../images/cms_cr_01c.png" target="_blank"><img class="ui image" src="../images/cms_cr_01c.png"></a>
 </div>
 
 ### Cash register - Clinic (medical attendance)
