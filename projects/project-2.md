@@ -57,7 +57,7 @@ summary: The purpose of the project was to replace a 20 year old system written 
 - Multi-tenant and multi-branch architecture
 - Interfaces and messages of the application available in English and Spanish
 - Granular access controls for different groups of users
-- Optimized for the monitor resolution of 1280x800
+- Optimized for resolution of 1280x800 pixels
 
 ## Requirements for specific areas of the application
 
