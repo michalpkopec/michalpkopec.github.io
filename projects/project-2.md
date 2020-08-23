@@ -81,6 +81,13 @@ The listed requirements are presented from end user point of view. All of the da
 - The ability to void, refund and reprint invoices with an approval of authorized employees
 - Automatically filtering the Service and Service group select boxes (for Laboratory, Imaging and Education)
 
+<div class="ui small rounded images">
+  <a href="../images/micromouse-robot.png"><img class="ui image" src="../images/micromouse-robot.png"></a>
+  <a href="../images/micromouse-robot-2.png"><img class="ui image" src="../images/micromouse-robot-2.jpg"></a>
+  <a href="../images/micromouse.png"><img class="ui image" src="../images/micromouse.jpg"></a>
+  <a href="../images/micromouse-circuit.png"><img class="ui image" src="../images/micromouse-circuit.png"></a>
+</div>
+
 ### Cash register - Clinic (medical attendance)
 
 - The ability to assign attendance tickets for any date in the future
