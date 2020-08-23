@@ -34,11 +34,6 @@ Size: ~32,000 LOC
 - Standardization of medical attendance and dentistry reporting
 - Communicating with USB/network ePOS matrix printers and formatting the output which includes QR codes (image to dots conversion)
 
-## Solutions for old hardware and Windows XP installed on workstations
-
-- The application works with the last version of Mozilla Firefox (52.9.0) available for Windows XP
-- The communication between ePOS matrix printers and the browser is done using the last available version of PHP (5.4) for Windows XP
-
 ## General requirements
 
 - An intranet application that is accessible through a browser and compatible with Windows XP or higher
@@ -133,3 +128,8 @@ The listed requirements are presented from end user point of view. All of the da
 - Patient information available from the request editor
 - PDF generation of analysis results with a universal template
 - Patient history generation from all analysis reports within a request
+
+## Solutions for older workstations (Windows XP)
+
+- The application works with the last version of Mozilla Firefox (52.9.0) available for Windows XP
+- The communication between ePOS matrix printers and the browser is done using the last available version of PHP (5.4) for Windows XP
