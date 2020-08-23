@@ -23,28 +23,26 @@ Schema: 83 Tables
 Size: ~32,000 LOC
 
 <table>
-<tbody>
 <tr>
-<td>&nbsp;Time of development</td>
-<td>&nbsp;</td>
+<td>**Time**</td>
+<td>24 months</td>
 </tr>
 <tr>
-<td>&nbsp;Stack</td>
-<td>&nbsp;</td>
+<td>**Stack**</td>
+<td>Java, Python, PHP, PostgreSQL</td>
 </tr>
 <tr>
-<td>&nbsp;Scope</td>
-<td>&nbsp;</td>
+<td>**Scope**</td>
+<td>From idea to deployment, full stack</td>
 </tr>
 <tr>
-<td>&nbsp;Schema</td>
-<td>&nbsp;</td>
+<td>**Schema**</td>
+<td>83 Tables</td>
 </tr>
 <tr>
-<td>&nbsp;Size</td>
-<td>&nbsp;</td>
+<td>**Size**</td>
+<td>~32,000 LOC</td>
 </tr>
-</tbody>
 </table>
 
 ## Challenges
