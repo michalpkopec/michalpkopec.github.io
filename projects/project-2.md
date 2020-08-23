@@ -83,7 +83,7 @@ The listed requirements are presented from end user point of view. All of the da
 
 <div class="ui small rounded images">
   <a href="../images/cms_cr_01a.png" target="_blank"><img class="ui image" src="../images/cms_cr_01a.png"></a>
-  <a href="../images/cms_cr_01b.jpg" target="_blank"><img class="ui image" src="../images/cms_cr_01b.jpg"></a>
+  <a href="../images/cms_cr_01b.png" target="_blank"><img class="ui image" src="../images/cms_cr_01b.png"></a>
   <a href="../images/cms_cr_01c.png" target="_blank"><img class="ui image" src="../images/cms_cr_01c.png"></a>
 </div>
 
