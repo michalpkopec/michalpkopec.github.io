@@ -22,6 +22,31 @@ Scope: From idea to deployment, full stack
 Schema: 83 Tables
 Size: ~32,000 LOC
 
+<table>
+<tbody>
+<tr>
+<td>&nbsp;Time of development</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Stack</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Scope</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Schema</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Size</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 ## Challenges
 
 - Understanding technical specifications of the legacy system, its data structures and features
