@@ -16,12 +16,6 @@ summary: The purpose of the project was to replace a 20 year old system written 
 
 ## Project overview
 
-Time of development: 24 months
-Stack: Java, Python, PHP, PostgreSQL
-Scope: From idea to deployment, full stack
-Schema: 83 Tables
-Size: ~32,000 LOC
-
 <table>
   <tr>
     <td>Time: </td>
