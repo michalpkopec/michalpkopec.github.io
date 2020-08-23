@@ -81,12 +81,7 @@ The listed requirements are presented from end user point of view. All of the da
 - The ability to void, refund and reprint invoices with an approval of authorized employees
 - Automatically filtering the Service and Service group select boxes (for Laboratory, Imaging and Education)
 
-<div class="ui small rounded images">
-  <a href="../images/cms_cr_01.png" target="_blank"><img class="ui image" src="../images/cms_cr_01.png"></a>
-  <a href="../images/cms_cr_02.png" target="_blank"><img class="ui image" src="../images/cms_cr_02.png"></a>
-  <a href="../images/cms_cr_03.png" target="_blank"><img class="ui image" src="../images/cms_cr_03.png"></a>
-  <a href="../images/cms_cr_04.png" target="_blank"><img class="ui image" src="../images/cms_cr_04.png"></a>
-</div>
+
 
 ### Cash register - Clinic (medical attendance)
 
@@ -97,15 +92,29 @@ The listed requirements are presented from end user point of view. All of the da
 - Presenting attendance hours for each doctor
 - Automatically filtering the following select boxes: Doctor, Specialty, Service (each doctor has a specialty and a number of services)
 
+<div class="ui small rounded images">
+  <a href="../images/cms_cr_01a.png" target="_blank"><img class="ui image" src="../images/cms_cr_01a.png"></a>
+  <a href="../images/cms_cr_01b.png" target="_blank"><img class="ui image" src="../images/cms_cr_01b.png"></a>
+  <a href="../images/cms_cr_01c.png" target="_blank"><img class="ui image" src="../images/cms_cr_01c.png"></a>
+</div>
+
 ### Cash register - Laboratory
 
 - Laboratory selection (with the laboratory code)
 - Automatic check of analyses that each laboratory can perform against the list of services sold by the clinic
 - Prefetching a list of laboratory analysis requests for each patient
 
+<div class="ui small rounded images">
+  <a href="../images/cms_cr_02.png" target="_blank"><img class="ui image" src="../images/cms_cr_02.png"></a>
+</div>
+
 ### Cash register - Imaging
 
 - Prefetching a list of imaging requests for each patient
+
+<div class="ui small rounded images">
+  <a href="../images/cms_cr_03.png" target="_blank"><img class="ui image" src="../images/cms_cr_03.png"></a>
+</div>
 
 ### Medical attendance - System administration
 
