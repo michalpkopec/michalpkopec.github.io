@@ -73,7 +73,7 @@ The listed requirements are presented from end user point of view. All of the da
 - Each cash register has a number of cashiers that are selected from an available pool of employees
 - Each cash register has a set of authorized payment methods
 - Patient search by name in random order, exact name and document ID
-- Simple patient creation (inserting a name in the search field and not selecting any prefetched records)
+- Simple patient creation
 - Data modification of a selected patient directly from the cash register interface (with field access controls)
 - Prefetching clients (with tax identification numbers) associated with a selected patient
 - Applying campaigns for specific predefined service packages
