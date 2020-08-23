@@ -14,7 +14,7 @@ labels:
 summary: The purpose of the project was to replace a 20 year old system written for MS DOS for the management of information within the company and its branches.
 ---
 
-### Project overview
+## Project overview
 
 Time of development: 24 months
 Stack: Java, Python, PHP, PostgreSQL
@@ -22,7 +22,7 @@ Scope: From idea to deployment, full stack
 Schema: 83 Tables
 Size: ~32,000 LOC
 
-Challenges:
+## Challenges
 
 - Understanding of the legacy system, its data structures and features
 - Understanding internal processes and financial information exchange formats within the company
@@ -34,12 +34,12 @@ Challenges:
 - Standardization of medical attendance and dentistry reporting
 - Communicating with USB/network ePOS matrix printers and formatting the output which includes QR codes (image to dots conversion)
 
-Solutions for old hardware and Windows XP installed on workstations:
+## Solutions for old hardware and Windows XP installed on workstations
 
 - The application works with the last version of Mozilla Firefox (52.9.0) available for Windows XP
 - The communication between ePOS matrix printers and the browser is done using the last available version of PHP (5.4) for Windows XP
 
-General requirements:
+## General requirements
 
 - An intranet application that is accessible through a browser and compatible with Windows XP or higher
 - Feature parity with the legacy system
@@ -48,11 +48,11 @@ General requirements:
 - Granular access controls for different groups of users
 - Optimized for the monitor resolution of 1280x800
 
-Requirements for specific areas of the application:
+## Requirements for specific areas of the application
 
 The listed requirements are presented from end user point of view. All of the database stored information can be managed with a corresponding administrative interface. Some key elements of the administrative panel have also been mentioned.
 
-Cash register - General:
+### Cash register - General
 
 - Four modes of operation for the following service types: Clinic (medical attendance), Laboratory, Imaging and Education
 - Each cash register is associated with a particular branch
@@ -70,7 +70,7 @@ Cash register - General:
 - The ability to void, refund and reprint invoices with an approval of authorized employees
 - Automatically filtering the Service and Service group select boxes (for Laboratory, Imaging and Education)
 
-Cash register - Clinic (medical attendance)
+### Cash register - Clinic (medical attendance)
 
 - The ability to assign attendance tickets for any date in the future
 - The attendance tickets are auto assigned (with the ability to reassign) when selecting a doctor
@@ -79,21 +79,21 @@ Cash register - Clinic (medical attendance)
 - Presenting attendance hours for each doctor
 - Automatically filtering the following select boxes: Doctor, Specialty, Service (each doctor has a specialty and a number of services)
 
-Cash register - Laboratory
+### Cash register - Laboratory
 
 - Laboratory selection (with the laboratory code)
 - Automatic check of analyses that each laboratory can perform against the list of services sold by the clinic
 - Prefetching a list of laboratory analysis requests for each patient
 
-Cash register - Imaging
+### Cash register - Imaging
 
 - Prefetching a list of imaging requests for each patient
 
-Medical attendance - System administration
+### Medical attendance - System administration
 
 - The ability to create and assign different attendance screens to services based on the following formats: Consultation, Dentistry and Text
 
-Medical attendance - Awaiting list and history
+### Medical attendance - Awaiting list and history
 
 - Displaying a list of patients with their ticket numbers
 - The ability to view future assigned tickets
@@ -101,7 +101,7 @@ Medical attendance - Awaiting list and history
 - The ability to annex previously created medical history documents (without the ability to modify the original content)
 - The ability to download previously created medical history as an MS Word document.
 
-Medical attendance - Attendance screen format - Consultation/Dentistry
+### Medical attendance - Attendance screen format - Consultation/Dentistry
 
 - The ability to view attended patient's information with their medical history
 - Standardization of fields according to the SOAP methodology
@@ -109,16 +109,16 @@ Medical attendance - Attendance screen format - Consultation/Dentistry
 - The ability to add medications from a classified list of products sold in the clinic's pharmacy
 - The ability to create laboratory and imaging service requests from the list of services provided by the clinic (which are then listed in the cash register for an attended patient)
 
-Medical attendance - Attendance screen format - Consultation
+### Medical attendance - Attendance screen format - Consultation
 
 - Separate input fields for patient vitals in the Observations and measurements part of the document
 - The ability to select classified diagnoses in the Diagnosis part of the document (based on the International Classification of Diseases (ICD))
 
-Medical attendance - Attendance screen format - Dentistry 
+### Medical attendance - Attendance screen format - Dentistry 
 
 - Visual representation of permanent and deciduous teeth for Observations and Procedures
 
-Laboratory 
+### Laboratory 
 
 - Dividing the workflow into the following areas: Reception, Sampling, Requests, Worksheets, Verification, Delivery
 - Lab employees can be assigned the following roles, which determine the access control within each of the lab areas: Receptionists, Samplers, Analysts, Managers
