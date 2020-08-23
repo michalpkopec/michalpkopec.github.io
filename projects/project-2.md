@@ -82,9 +82,7 @@ The listed requirements are presented from end user point of view. All of the da
 - Automatically filtering the Service and Service group select boxes (for Laboratory, Imaging and Education)
 
 <div class="ui small rounded images">
-  <a href="../images/cms_cr_01a.png" target="_blank"><img class="ui image" src="../images/cms_cr_01a.png"></a>
-  <a href="../images/cms_cr_01b.png" target="_blank"><img class="ui image" src="../images/cms_cr_01b.png"></a>
-  <a href="../images/cms_cr_01c.png" target="_blank"><img class="ui image" src="../images/cms_cr_01c.png"></a>
+  <a href="../images/cms_cr_01.png" target="_blank"><img class="ui image" src="../images/cms_cr_01.png"></a>
   <a href="../images/cms_cr_02.png" target="_blank"><img class="ui image" src="../images/cms_cr_02.png"></a>
   <a href="../images/cms_cr_03.png" target="_blank"><img class="ui image" src="../images/cms_cr_03.png"></a>
   <a href="../images/cms_cr_04.png" target="_blank"><img class="ui image" src="../images/cms_cr_04.png"></a>
