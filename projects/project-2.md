@@ -24,7 +24,7 @@ Size: ~32,000 LOC
 
 ## Challenges
 
-- Understanding of the legacy system, its data structures and features
+- Understanding technical specifications of the legacy system, its data structures and features
 - Understanding internal processes and financial information exchange formats within the company
 - Improving on original processes and adding requested features on top of the old system
 - Adjusting the technology stack in order to be compatible with old client side hardware and operating systems
