@@ -161,6 +161,12 @@ The listed requirements are presented from end user point of view. All of the da
 
 - Visual representation of permanent and deciduous teeth for Observations and Procedures
 
+<div class="ui small rounded images">
+  <a href="../images/cms_ma_05.png" target="_blank"><img class="ui image" src="../images/cms_ma_05.png"></a>
+  <a href="../images/cms_ma_06.png" target="_blank"><img class="ui image" src="../images/cms_ma_06.png"></a>
+  <a href="../images/cms_ma_07.png" target="_blank"><img class="ui image" src="../images/cms_ma_07.png"></a>
+</div>
+
 ### Laboratory 
 
 - Dividing the workflow into the following areas: Reception, Sampling, Requests, Worksheets, Verification, Delivery
