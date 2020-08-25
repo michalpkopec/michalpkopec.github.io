@@ -183,6 +183,23 @@ The listed requirements are presented from end user point of view. All of the da
 - PDF generation of analysis results with a universal template
 - Patient history generation from all analysis reports within a request
 
+<div class="ui small rounded images">
+  <a href="../images/cms_lab_01.png" target="_blank"><img class="ui image" src="../images/cms_lab_01.png"></a>
+  <a href="../images/cms_lab_02.png" target="_blank"><img class="ui image" src="../images/cms_lab_02.png"></a>
+  <a href="../images/cms_lab_03.png" target="_blank"><img class="ui image" src="../images/cms_lab_03.png"></a>
+  <a href="../images/cms_lab_04.png" target="_blank"><img class="ui image" src="../images/cms_lab_04.png"></a>
+  <a href="../images/cms_lab_05.png" target="_blank"><img class="ui image" src="../images/cms_lab_05.png"></a>
+  <a href="../images/cms_lab_06.png" target="_blank"><img class="ui image" src="../images/cms_lab_06.png"></a>
+  <a href="../images/cms_lab_07.png" target="_blank"><img class="ui image" src="../images/cms_lab_07.png"></a>
+  <a href="../images/cms_lab_08.png" target="_blank"><img class="ui image" src="../images/cms_lab_08.png"></a>
+  <a href="../images/cms_lab_09.png" target="_blank"><img class="ui image" src="../images/cms_lab_09.png"></a>
+  <a href="../images/cms_lab_10.png" target="_blank"><img class="ui image" src="../images/cms_lab_10.png"></a>
+  <a href="../images/cms_lab_11.png" target="_blank"><img class="ui image" src="../images/cms_lab_11.png"></a>
+  <a href="../images/cms_lab_12.png" target="_blank"><img class="ui image" src="../images/cms_lab_12.png"></a>
+  <a href="../images/cms_lab_13.png" target="_blank"><img class="ui image" src="../images/cms_lab_13.png"></a>
+  
+</div>
+
 ## Solutions for older workstations (Windows XP)
 
 - The application works with the last version of Mozilla Firefox (52.9.0) available for Windows XP
