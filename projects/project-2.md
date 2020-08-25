@@ -134,6 +134,11 @@ The listed requirements are presented from end user point of view. All of the da
 - The ability to annex previously created medical history documents (without the ability to modify the original content)
 - The ability to download previously created medical history as an MS Word document.
 
+<div class="ui small rounded images">
+  <a href="../images/cms_ma_01.png" target="_blank"><img class="ui image" src="../images/cms_ma_01.png"></a>
+  <a href="../images/cms_ma_03.png" target="_blank"><img class="ui image" src="../images/cms_ma_03.png"></a>
+</div>
+
 ### Medical attendance - Consultation/Dentistry
 
 - The ability to view attended patient's information with their medical history
