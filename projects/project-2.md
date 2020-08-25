@@ -152,6 +152,11 @@ The listed requirements are presented from end user point of view. All of the da
 - Separate input fields for patient vitals in the Observations and measurements part of the document
 - The ability to select classified diagnoses in the Diagnosis part of the document (based on the International Classification of Diseases (ICD))
 
+<div class="ui small rounded images">
+  <a href="../images/cms_ma_02.png" target="_blank"><img class="ui image" src="../images/cms_ma_02.png"></a>
+  <a href="../images/cms_ma_04.png" target="_blank"><img class="ui image" src="../images/cms_ma_04.png"></a>
+</div>
+
 ### Medical attendance - Dentistry 
 
 - Visual representation of permanent and deciduous teeth for Observations and Procedures
