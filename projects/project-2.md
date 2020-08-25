@@ -84,6 +84,9 @@ The listed requirements are presented from end user point of view. All of the da
 <div class="ui small rounded images">
   <a href="../images/cms_cr_05.png" target="_blank"><img class="ui image" src="../images/cms_cr_05.png"></a>
   <a href="../images/cms_cr_06.png" target="_blank"><img class="ui image" src="../images/cms_cr_06.png"></a>
+  <a href="../images/cms_cr_07.png" target="_blank"><img class="ui image" src="../images/cms_cr_07.png"></a>
+  <a href="../images/cms_cr_08.png" target="_blank"><img class="ui image" src="../images/cms_cr_08.png"></a>
+  <a href="../images/cms_cr_09.png" target="_blank"><img class="ui image" src="../images/cms_cr_09.png"></a>
 </div>
 
 ### Cash register - Clinic (medical attendance)
