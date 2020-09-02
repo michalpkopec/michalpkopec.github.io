@@ -57,3 +57,9 @@ summary: Fully automated link building service.
 - The ability to schedule simple and combined campaigns for specific dates or as recurring week
 - The ability to assign specific link numbers for scheduled entries
 - The ability to download generated link reports
+
+## Training videos
+
+<div class="ui small rounded images">
+  <a href="../images/bd_overview.mov" target="_blank"><img class="ui image" src="../images/cms_ma_01.png"></a>
+</div>
