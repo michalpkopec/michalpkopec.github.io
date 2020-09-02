@@ -46,8 +46,7 @@ summary: Fully automated link building service.
 - Integration of subscription plan payments with ClickBank
 
 <div class="ui small rounded images">
-  <a href="../images/cms_ma_01.png" target="_blank"><img class="ui image" src="../images/cms_ma_01.png"></a>
-  <a href="../images/cms_ma_03.png" target="_blank"><img class="ui image" src="../images/cms_ma_03.png"></a>
+  <a href="../images/bd_01.png" target="_blank"><img class="ui image" src="../images/bd_01.png"></a>
 </div>
 
 ## Client interface
@@ -57,6 +56,19 @@ summary: Fully automated link building service.
 - The ability to schedule simple and combined campaigns for specific dates or as recurring week
 - The ability to assign specific link numbers for scheduled entries
 - The ability to download generated link reports
+
+<div class="ui small rounded images">
+  <a href="../images/bd_01.png" target="_blank"><img class="ui image" src="../images/bd_01.png"></a>
+  <a href="../images/bd_02.png" target="_blank"><img class="ui image" src="../images/bd_02.png"></a>
+  <a href="../images/bd_03.png" target="_blank"><img class="ui image" src="../images/bd_03.png"></a>
+  <a href="../images/bd_04.png" target="_blank"><img class="ui image" src="../images/bd_04.png"></a>
+  <a href="../images/bd_05.png" target="_blank"><img class="ui image" src="../images/bd_05.png"></a>
+  <a href="../images/bd_06.png" target="_blank"><img class="ui image" src="../images/bd_06.png"></a>
+  <a href="../images/bd_07.png" target="_blank"><img class="ui image" src="../images/bd_07.png"></a>
+  <a href="../images/bd_08.png" target="_blank"><img class="ui image" src="../images/bd_08.png"></a>
+  <a href="../images/bd_09.png" target="_blank"><img class="ui image" src="../images/bd_09.png"></a>
+  <a href="../images/bd_10.png" target="_blank"><img class="ui image" src="../images/bd_10.png"></a>
+</div>
 
 ## Training videos
 
