@@ -1,61 +1,59 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/vacay-square.png
+title: Link building service
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2012-08-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Python
+  - PHP
+  - PostgreSQL
+summary: Fully automated link building service.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+## Project overview
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+<table>
+  <tr>
+    <td>Development time:&nbsp;</td>
+    <td>4 months</td>
+  </tr>
+  <tr>
+    <td>Development scope:&nbsp;</td>
+    <td>From idea to deployment, full stack</td>
+  </tr>
+  <tr>
+    <td>Technology stack:&nbsp;</td>
+    <td>Python, Django, JavaScript, PostgreSQL, AWS Services</td>
+  </tr>
+  <tr>
+    <td>Database schema:&nbsp;</td>
+    <td>22 Tables</td>
+  </tr>
+  <tr>
+    <td>Source lines of code:&nbsp;</td>
+    <td>6,000</td>
+  </tr>
+</table>
 
-To give you a flavor of the game, here is an excerpt from one run:
+## System administration
 
-<hr>
+- Automated two-way communication between the website and a link building software for MS Windows 
+- The ability to design flexible subscription plans based on link types and their quantities
+- Integration of subscription plan payments with ClickBank
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<div class="ui small rounded images">
+  <a href="../images/cms_ma_01.png" target="_blank"><img class="ui image" src="../images/cms_ma_01.png"></a>
+  <a href="../images/cms_ma_03.png" target="_blank"><img class="ui image" src="../images/cms_ma_03.png"></a>
+</div>
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+## Client interface
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+- The ability to create simple campaigns (blasts) for a specific link types, with multiple URLs and keywords
+- The ability to create combined campaigns by grouping previously created simple campaigns
+- The ability to schedule simple and combined campaigns for specific dates or as recurring week
+- The ability to assign specific link numbers for scheduled entries
+- The ability to download generated link reports
