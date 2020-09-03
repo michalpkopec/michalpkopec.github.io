@@ -72,7 +72,7 @@ summary: Fully automated link building service.
 
 ## Training videos
 
-<iframe width="720" src="https://www.youtube.com/embed/g81XCqnbok0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/g81XCqnbok0?vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/HNOezP2qHIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
