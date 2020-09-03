@@ -7,10 +7,11 @@ permalink:
 # All dates must be YYYY-MM-DD format!
 date: 2012-08-01
 labels:
-  - Java
   - Python
-  - PHP
+  - Django
+  - JavaScript
   - PostgreSQL
+  - AWS Services
 summary: Fully automated link building service.
 ---
 
@@ -58,7 +59,6 @@ summary: Fully automated link building service.
 - The ability to download generated link reports
 
 <div class="ui small rounded images">
-  <a href="../images/bd_01.png" target="_blank"><img class="ui image" src="../images/bd_01.png"></a>
   <a href="../images/bd_02.png" target="_blank"><img class="ui image" src="../images/bd_02.png"></a>
   <a href="../images/bd_03.png" target="_blank"><img class="ui image" src="../images/bd_03.png"></a>
   <a href="../images/bd_04.png" target="_blank"><img class="ui image" src="../images/bd_04.png"></a>
