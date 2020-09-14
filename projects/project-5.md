@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - AngularJS
   - Bootstrap
-summary: Google Chrome and Firefox extension for adding notes to websites.
+summary: Google Chrome and Mozilla Firefox extension for adding notes to websites.
 ---
 
 ## Project overview
