@@ -9,7 +9,7 @@ date: 2013-11-24
 labels:
   - JavaScript
   - ZURB Foundation
-summary: Message board navigation extension for Google Chrome
+summary: Message board navigation extension for Google Chrome.
 ---
 
 ## Project overview
