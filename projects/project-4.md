@@ -37,6 +37,8 @@ summary: Message board navigation extension for Google Chrome
   </tr>
 </table>
 
+## Functionality
+
 - The ability to record shortcuts
 - Support for 6 common movements
 - Support for 10 different message board engines
