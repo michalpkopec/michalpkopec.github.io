@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Clinic management system
+title: Clinic management intranet system
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-10
