@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Link building service
+title: SEO link building service
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2012-08-01
