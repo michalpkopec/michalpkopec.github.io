@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - AngularJS
   - ZURB Foundation
-summary: Message board navigation extension for Google Chrome.
+summary: Google Chrome extension for message board navigation.
 ---
 
 ## Project overview
@@ -40,7 +40,7 @@ summary: Message board navigation extension for Google Chrome.
 
 ## Summary
 
-Message board navigation extension for Google Chrome.
+Google Chrome extension for message board navigation.
 
 ## Functionality
 
