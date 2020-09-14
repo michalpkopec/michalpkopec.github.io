@@ -50,7 +50,7 @@ summary: Message board navigation extension for Google Chrome.
   <a href="../images/lr_03.png" target="_blank"><img class="ui image" src="../images/lr_03.png"></a>
 </div>
 
-## Shared data
+## Data structure
 
 ```
 var ladderShared = angular.module('ladderShared', []);
