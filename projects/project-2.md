@@ -11,7 +11,7 @@ labels:
   - Python
   - PHP
   - PostgreSQL
-summary: The purpose of the project was to replace a 20 year old system written for MS DOS for the management of information within the company and its branches.
+summary: Replacement of a 20 year old system written for MS DOS for the management of information within the company and its branches.
 ---
 
 ## Project overview
