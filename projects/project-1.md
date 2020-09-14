@@ -9,6 +9,7 @@ date: 2014-09-07
 labels:
   - PHP
   - Laravel
+  - JavaScript
   - MySQL
 summary: Social network for startup founders.
 ---
@@ -26,7 +27,7 @@ summary: Social network for startup founders.
   </tr>
   <tr>
     <td>Technology stack:&nbsp;</td>
-    <td>PHP, Laravel, MySQL</td>
+    <td>PHP, Laravel, JavaScript, MySQL</td>
   </tr>
   <tr>
     <td>Database schema:&nbsp;</td>
