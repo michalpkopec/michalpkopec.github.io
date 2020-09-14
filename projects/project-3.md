@@ -40,6 +40,10 @@ summary: Fully automated link building service.
   </tr>
 </table>
 
+## Summary
+
+Fully automated link building service.
+
 ## System administration
 
 - Automated two-way communication between the website and a link building software for MS Windows 
