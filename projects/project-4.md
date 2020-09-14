@@ -55,7 +55,7 @@ Google Chrome extension for message board navigation.
   <a href="../images/lr_03.png" target="_blank"><img class="ui image" src="../images/lr_03.png"></a>
 </div>
 
-## Data structure
+## Data format
 
 ```
 var ladderShared = angular.module('ladderShared', []);
