@@ -46,7 +46,6 @@ summary: Message board navigation extension for Google Chrome
   <a href="../images/lr_01.png" target="_blank"><img class="ui image" src="../images/lr_01.png"></a>
   <a href="../images/lr_02.png" target="_blank"><img class="ui image" src="../images/lr_02.png"></a>
   <a href="../images/lr_03.png" target="_blank"><img class="ui image" src="../images/lr_03.png"></a>
-  <a href="../images/lr_04.png" target="_blank"><img class="ui image" src="../images/lr_04.png"></a>
 </div>
 
 
