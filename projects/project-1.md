@@ -1,44 +1,85 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/vacay-square.png
+title: Professional network
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2014-09-07
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - PHP
+  - Laravel
+  - MySQL
+summary: Social network for startup founders.
 ---
 
+## Project overview
+
+<table>
+  <tr>
+    <td>Development time:&nbsp;</td>
+    <td>4 months</td>
+  </tr>
+  <tr>
+    <td>Development scope:&nbsp;</td>
+    <td>From idea to deployment, full stack</td>
+  </tr>
+  <tr>
+    <td>Technology stack:&nbsp;</td>
+    <td>PHP, Laravel, MySQL</td>
+  </tr>
+  <tr>
+    <td>Database schema:&nbsp;</td>
+    <td>28 Tables</td>
+  </tr>
+  <tr>
+    <td>Source lines of code:&nbsp;</td>
+    <td>20,000</td>
+  </tr>
+</table>
+
+## System administration
+
+- The ability to easily edit all database entities through an admin interface
+
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <a href="../images/pn_01.png" target="_blank"><img class="ui image" src="../images/pn_01.png"></a>
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+## Client interface
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+- Profile editing page with autocomplete fields
+- Viewing public profiles of other members
+- The ability to add other members as connections
+- Notifications for connection requests and connection approvals
+- The ability to send messages to connected members
+- The ability to create public startup pages
+- The ability to add connected members to public startup pages
+- The ability to create and join events
+- The ability to add forum posts
+- Posting updates to the timeline
+- Being able to add comments and likes to updates of connected members
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+<div class="ui small rounded images">
+  <a href="../images/pn_01.png" target="_blank"><img class="ui image" src="../images/pn_01.png"></a>
+  <a href="../images/pn_03.png" target="_blank"><img class="ui image" src="../images/pn_03.png"></a>
+  <a href="../images/pn_04.png" target="_blank"><img class="ui image" src="../images/pn_04.png"></a>
+  <a href="../images/pn_05a.png" target="_blank"><img class="ui image" src="../images/pn_05a.png"></a>
+  <a href="../images/pn_05b.png" target="_blank"><img class="ui image" src="../images/pn_05b.png"></a>
+  <a href="../images/pn_05c.png" target="_blank"><img class="ui image" src="../images/pn_05c.png"></a>
+  <a href="../images/pn_05d.png" target="_blank"><img class="ui image" src="../images/pn_05d.png"></a>
+  <a href="../images/pn_05e.png" target="_blank"><img class="ui image" src="../images/pn_05e.png"></a>
+  <a href="../images/pn_05f.png" target="_blank"><img class="ui image" src="../images/pn_05f.png"></a>
+  <a href="../images/pn_06.png" target="_blank"><img class="ui image" src="../images/pn_06.png"></a>
+  <a href="../images/pn_07.png" target="_blank"><img class="ui image" src="../images/pn_07.png"></a>
+  <a href="../images/pn_08.png" target="_blank"><img class="ui image" src="../images/pn_08.png"></a>
+  <a href="../images/pn_09.png" target="_blank"><img class="ui image" src="../images/pn_09.png"></a>
+  <a href="../images/pn_10.png" target="_blank"><img class="ui image" src="../images/pn_10.png"></a>
+  <a href="../images/pn_11.png" target="_blank"><img class="ui image" src="../images/pn_11.png"></a>
+  <a href="../images/pn_13.png" target="_blank"><img class="ui image" src="../images/pn_13.png"></a>
+  <a href="../images/pn_14.png" target="_blank"><img class="ui image" src="../images/pn_14.png"></a>
+  <a href="../images/pn_15.png" target="_blank"><img class="ui image" src="../images/pn_15.png"></a>
+  <a href="../images/pn_16.png" target="_blank"><img class="ui image" src="../images/pn_16.png"></a>
+  <a href="../images/pn_17.png" target="_blank"><img class="ui image" src="../images/pn_17.png"></a>
+  <a href="../images/pn_18.png" target="_blank"><img class="ui image" src="../images/pn_18.png"></a>
+</div>
