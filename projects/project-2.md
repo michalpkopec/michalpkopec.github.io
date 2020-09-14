@@ -39,6 +39,10 @@ summary: Replacement of a 20 year old system written for MS DOS for the manageme
   </tr>
 </table>
 
+## Summary
+
+Replacement of a 20 year old system written for MS DOS for the management of information within the company and its branches.
+
 ## Challenges
 
 - Understanding technical specifications of the legacy system, its data structures and features
