@@ -38,6 +38,10 @@ summary: Social network for startup founders.
   </tr>
 </table>
 
+## Summary
+
+Social network for startup founders.
+
 ## System administration
 
 - The ability to easily edit all database entities through an admin interface
