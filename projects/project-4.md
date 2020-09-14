@@ -8,6 +8,7 @@ permalink:
 date: 2013-11-24
 labels:
   - JavaScript
+  - AngularJS
   - ZURB Foundation
 summary: Message board navigation extension for Google Chrome.
 ---
@@ -25,7 +26,7 @@ summary: Message board navigation extension for Google Chrome.
   </tr>
   <tr>
     <td>Technology stack:&nbsp;</td>
-    <td>JavaScript, ZURB Foundation</td>
+    <td>JavaScript, AngularJS, ZURB Foundation</td>
   </tr>
   <tr>
     <td>Database schema:&nbsp;</td>
