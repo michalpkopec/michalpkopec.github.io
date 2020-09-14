@@ -62,6 +62,7 @@ summary: Social network for startup founders.
 
 <div class="ui small rounded images">
   <a href="../images/pn_01.png" target="_blank"><img class="ui image" src="../images/pn_01.png"></a>
+  <a href="../images/pn_02.png" target="_blank"><img class="ui image" src="../images/pn_02.png"></a>
   <a href="../images/pn_03.png" target="_blank"><img class="ui image" src="../images/pn_03.png"></a>
   <a href="../images/pn_04.png" target="_blank"><img class="ui image" src="../images/pn_04.png"></a>
   <a href="../images/pn_05a.png" target="_blank"><img class="ui image" src="../images/pn_05a.png"></a>
@@ -76,6 +77,7 @@ summary: Social network for startup founders.
   <a href="../images/pn_09.png" target="_blank"><img class="ui image" src="../images/pn_09.png"></a>
   <a href="../images/pn_10.png" target="_blank"><img class="ui image" src="../images/pn_10.png"></a>
   <a href="../images/pn_11.png" target="_blank"><img class="ui image" src="../images/pn_11.png"></a>
+  <a href="../images/pn_12.png" target="_blank"><img class="ui image" src="../images/pn_12.png"></a>
   <a href="../images/pn_13.png" target="_blank"><img class="ui image" src="../images/pn_13.png"></a>
   <a href="../images/pn_14.png" target="_blank"><img class="ui image" src="../images/pn_14.png"></a>
   <a href="../images/pn_15.png" target="_blank"><img class="ui image" src="../images/pn_15.png"></a>
