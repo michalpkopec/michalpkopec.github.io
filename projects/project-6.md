@@ -69,4 +69,4 @@ A search engine with smart sorting for rapid discovery of high quality video con
 </div>
 
 Live demo (limited to 10,000 api calls, which translates to about 60 searches)
-http://motionpicker.uc.r.appspot.com/
+(http://motionpicker.uc.r.appspot.com/)
