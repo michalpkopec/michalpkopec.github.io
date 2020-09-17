@@ -67,3 +67,6 @@ A search engine with smart sorting for rapid discovery of high quality video con
   <a href="../images/mp_06.png" target="_blank"><img class="ui image" src="../images/mp_06.png"></a>
   <a href="../images/mp_07.png" target="_blank"><img class="ui image" src="../images/mp_07.png"></a>
 </div>
+
+Live demo (limited to 10,000 api calls, which translates to about 60 searches)
+http://motionpicker.uc.r.appspot.com/
