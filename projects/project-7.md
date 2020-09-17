@@ -8,7 +8,7 @@ permalink:
 date: 2015-03-23
 labels:
   - JavaScript
-  - PhaserJS
+  - Phaser
 summary: A simple game inspired by the popular Flappy Bird.
 ---
 
@@ -25,7 +25,7 @@ summary: A simple game inspired by the popular Flappy Bird.
   </tr>
   <tr>
     <td>Technology stack:&nbsp;</td>
-    <td>JavaScript, PhaserJS</td>
+    <td>JavaScript, Phaser</td>
   </tr>
   <tr>
     <td>Database schema:&nbsp;</td>
