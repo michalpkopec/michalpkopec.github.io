@@ -110,7 +110,7 @@ The listed requirements are presented from end user point of view. All of the da
 
 ### Cash register - Laboratory
 
-- Laboratory selection (with the laboratory code)
+- Laboratory selection (using the laboratory code)
 - Automatic check of analyses that each laboratory can perform against the list of services sold by the clinic
 - Prefetching a list of laboratory analysis requests for each patient
 
