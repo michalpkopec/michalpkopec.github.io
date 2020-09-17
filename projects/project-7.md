@@ -48,6 +48,7 @@ A simple game inspired by the popular Flappy Bird.
   <a href="../images/pb_04.png" target="_blank"><img class="ui image" src="../images/pb_04.png"></a>
 </div>
 
-Live demo:
+## Live demo
+
 <a href="https://plumpy-bird.uc.r.appspot.com/" target="_blank">https://plumpy-bird.uc.r.appspot.com/</a>
 
