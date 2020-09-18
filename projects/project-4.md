@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/lr_00.png
 title: Message board navigator
 permalink: 
 # All dates must be YYYY-MM-DD format!
