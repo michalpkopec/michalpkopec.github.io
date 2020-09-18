@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pm_00.png
 title: Project manager
 permalink: 
 # All dates must be YYYY-MM-DD format!
