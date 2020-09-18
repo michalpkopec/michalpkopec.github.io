@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ap_00.png
 title: Notepad for websites
 permalink: 
 # All dates must be YYYY-MM-DD format!
