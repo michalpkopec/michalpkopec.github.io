@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pn_00.png
 title: Professional network
 permalink: 
 # All dates must be YYYY-MM-DD format!
