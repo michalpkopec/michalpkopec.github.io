@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/mp_00.png
 title: YouTube search engine
 permalink: 
 # All dates must be YYYY-MM-DD format!
