@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pb_01.png
 title: Arcade-style game
 permalink: 
 # All dates must be YYYY-MM-DD format!
