@@ -103,42 +103,46 @@
   "work": [
     {
       "company": "Jet Interactive OÜ",
-      "position": "Business Owner",
+      "position": "",
       "website": "",
       "startDate": "2016-05-01",
       "endDate": "",
       "summary": "Tallinn, Estonia",
       "highlights": [
+        "Business Owner"
       ]
     },
     {
       "company": "Tucan Software",
-      "position": "Business Owner",
+      "position": "",
       "website": "",
       "startDate": "2016-10-01",
       "endDate": "2019-04-01",
       "summary": "Santa Cruz de la Sierra, Bolivia",
       "highlights": [
+        "Business Owner"
       ]
     },
     {
       "company": "Levercode Limited",
-      "position": "Business Owner",
+      "position": "",
       "website": "",
       "startDate": "2013-08-01",
       "endDate": "2018-09-01",
       "summary": "London, United Kingdom",
       "highlights": [
+        "Business Owner"
       ]
     },
     {
       "company": "Complexicut Solutions",
-      "position": "Business Owner",
+      "position": "",
       "website": "",
       "startDate": "2010-02-01",
       "endDate": "2012-06-01",
       "summary": "Warsaw, Poland",
       "highlights": [
+        "Business Owner"
       ]
     }
   ]
