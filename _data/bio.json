@@ -76,6 +76,7 @@
         "Java",
         "Cuba Platform",
         "PHP",
+        "Wordpress",
         "Laravel"
       ]
     },
@@ -113,15 +114,13 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Complexicut Solutions",
       "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ]
