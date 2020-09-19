@@ -67,7 +67,7 @@ A Wordpress plugin for scheduling of automated posts from many content sources.
 - Creating presets using one of the available modules with their own templates (defaults available) and a setting of time between posting
 - Options page allowing to adjust the following settings:
     - New post status
-    - Post Author
+    - Post author
     - Number of retries in case of content source connection issues
     - License activation section
 - Modules page with API connection settings of each content source and the ability to modify default templates
