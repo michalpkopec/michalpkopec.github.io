@@ -53,6 +53,16 @@ A project management application with a tree-like structure of tasks.
 - Hiding tasks based on completion and flags
 
 <div class="ui small rounded images">
+  <a href="../images/pm_01.png" target="_blank"><img class="ui image" src="../images/pm_01.png"></a>
+  <a href="../images/pm_02.png" target="_blank"><img class="ui image" src="../images/pm_02.png"></a>
+  <a href="../images/pm_03.png" target="_blank"><img class="ui image" src="../images/pm_03.png"></a>
+  <a href="../images/pm_04.png" target="_blank"><img class="ui image" src="../images/pm_04.png"></a>
+  <a href="../images/pm_05.png" target="_blank"><img class="ui image" src="../images/pm_05.png"></a>
+  <a href="../images/pm_06.png" target="_blank"><img class="ui image" src="../images/pm_06.png"></a>
+  <a href="../images/pm_07.png" target="_blank"><img class="ui image" src="../images/pm_07.png"></a>
+  <a href="../images/pm_08.png" target="_blank"><img class="ui image" src="../images/pm_08.png"></a>
+  <a href="../images/pm_09.png" target="_blank"><img class="ui image" src="../images/pm_09.png"></a>
+  <a href="../images/pm_10.png" target="_blank"><img class="ui image" src="../images/pm_10.png"></a>
 </div>
 
 
