@@ -64,7 +64,7 @@ A Wordpress plugin for scheduling of automated posts from many content sources.
     - Yahoo News
     - Yelp
     - YouTube
-- Creating presets using one of the available modules with their own templates (defaults available) and time between posting
+- Creating presets using one of the available modules with their own templates (defaults available) and a setting of time between posting
 - Options page allowing to adjust the following settings:
     - New post status
     - Post Author
