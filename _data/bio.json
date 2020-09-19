@@ -102,24 +102,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Jet Interactive OÜ",
+      "position": "Business Owner",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2016-05-01",
+      "endDate": "",
+      "summary": "Tallinn, Estonia",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "Tucan Software",
+      "position": "Business Owner",
+      "website": "",
+      "startDate": "2016-10-01",
+      "endDate": "2019-04-01",
+      "summary": "Santa Cruz de la Sierra, Bolivia",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Levercode Limited",
+      "position": "Business Owner",
+      "website": "",
+      "startDate": "2013-08-01",
+      "endDate": "2018-09-01",
+      "summary": "London, United Kingdom",
+      "highlights": [
       ]
     },
     {
       "company": "Complexicut Solutions",
-      "position": "Help Desk Consultant",
+      "position": "Business Owner",
       "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2010-02-01",
+      "endDate": "2012-06-01",
+      "summary": "Warsaw, Poland",
       "highlights": [
       ]
     }
